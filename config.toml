@@ -165,11 +165,11 @@ home = "Home"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
 
 ################################ France Language ########################
-[Languages.pt]
-languageName = "Pt"
-languageCode = "pt-pt"
-contentDir = "content/portuguese"
-weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+# [Languages.pt]
+# languageName = "Pt"
+# languageCode = "pt-pt"
+# contentDir = "content/portuguese"
+# weight = 2
+# home = "Accueil"
+# # copyright
+# copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
