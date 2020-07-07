@@ -54,34 +54,19 @@ URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "Project"
-URL = "project"
+name = "Team"
+URL = "team"
 weight = 2
 
 [[menu.main]]
-name = "Service"
-URL = "service"
+name = "Publications"
+URL = "publications"
 weight = 3
 
 [[menu.main]]
-name = "Blog"
-URL = "blog"
+name = "Partners"
+URL = "partners"
 weight = 4
-
-[[menu.main]]
-weight = 5
-name = "Pages"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  URL = "pricing"
   
 [[menu.main]]
 name = "Contact"
@@ -90,35 +75,20 @@ weight = 6
 
 
 # footer menu
-[[menu.footer]]
-name = "About"
-URL = "about"
-weight = 1
-
-[[menu.footer]]
-name = "Project"
-URL = "project"
-weight = 2
-
-[[menu.footer]]
-name = "Service"
-URL = "service"
-weight = 3
-
-[[menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
-
-[[menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
-
-[[menu.footer]]
-name = "Contact"
-URL = "contact"
-weight = 6
+# [[menu.footer]]
+# name = "About"
+# URL = "about"
+# weight = 1
+# 
+# [[menu.footer]]
+# name = "Project"
+# URL = "project"
+# weight = 2
+# 
+# [[menu.footer]]
+# name = "Contact"
+# URL = "contact"
+# weight = 6
 
 
 #################### default parameters ################################
@@ -195,10 +165,10 @@ home = "Home"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
 
 ################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+[Languages.pt]
+languageName = "Pt"
+languageCode = "pt-pt"
+contentDir = "content/portuguese"
 weight = 2
 home = "Accueil"
 # copyright
