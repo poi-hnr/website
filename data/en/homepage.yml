@@ -3,12 +3,12 @@ banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
-  title : "A Digital Marketing <br/> & Design Agency"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "Mapping the Atlantic Portuguese Empire"
+  content : "Reconstructing and mapping the networks of official correspondence of the early modern Atlantic Portuguese Empire"
   button:
-    enable : true
+    enable : false
     label : "Discover Our Project"
-    link : "project"
+    link : "about"
 
 ############################# About #################################
 about:
