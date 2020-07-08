@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "/"
-title = "Airspace | Creative Agency Hugo Template"
+title = "Mapping the Atlantic Portuguese Empire"
 theme = "airspace"
 # post pagination
 paginate = "4"
