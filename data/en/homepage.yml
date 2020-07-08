@@ -46,7 +46,7 @@ portfolio:
 
 ############################# Service ############################
 service:
-  enable : true
+  enable : false
   # service content comes from "data/*/service.yml" file
 
 
@@ -54,16 +54,16 @@ service:
 cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
-  title : "We design delightful digital experiences."
-  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title : "Get in touch"
+  content : ""
   button:
     enable : true
-    label : "Tell Us Your Story"
+    label : "Contact us"
     link : "contact"
 
 ############################# Funfacts ###############################
 funfacts:
-  enable : true
+  enable : false
   title : "Fun Facts About Us"
   description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
           blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
