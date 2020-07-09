@@ -1,0 +1,7 @@
+section p,li,ol,ul {
+	text-align: left;
+}
+
+.measure-wide {
+	max-width: 1024px;
+}
