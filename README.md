@@ -1,3 +1,3 @@
 # Project website
 
-https://mappingatlanticportugueseempire.blogspot.com
+Old site at <https://mappingatlanticportugueseempire.blogspot.com>.
