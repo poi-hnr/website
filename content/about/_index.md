@@ -28,4 +28,4 @@ It is assumed that the Portuguese colonialism united single individuals rather t
 
 # Sources
 
-- Historical Overseas Archives in Lisbon: Catalog of Manuscript referring to the following colonies, as series in the fund of Portuguese Overseas Council.
+- Historical Overseas Archives in Lisbon
