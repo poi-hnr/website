@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: ""
-featured_image: ''
+featured_image: "images/seashore.jpg"
 ---
 
 # Introduction
