@@ -6,6 +6,8 @@ feature_image: "images/seashore.jpg"
 
 ## Journal articles
 
+Błoch, A., Vasques Filho, D., & Bojanowski, M. (2020). Networks from archives: Reconstructing networks of official correspondence in the early modern Portuguese empire. *Social Networks*. DOI: https://doi.org/10.1016/j.socnet.2020.08.008
+
 ## Book chapters
 
 ## Conference presentations
