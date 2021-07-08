@@ -1,6 +1,6 @@
 ---
 title: "Team"
-description: "Meat us"
+description: "Meet us"
 feature_image: "images/seashore.jpg"
 ---
 
