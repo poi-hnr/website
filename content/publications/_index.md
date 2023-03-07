@@ -7,9 +7,10 @@ feature_image: "images/seashore.jpg"
 ## Journal articles
 
 - Błoch, A., Vasques Filho, D., & Bojanowski, M. (2020). Networks from archives: Reconstructing networks of official correspondence in the early modern Portuguese empire. *Social Networks*. DOI: https://doi.org/10.1016/j.socnet.2020.08.008
-- Błoch, A., Vasques Filho, D., & Bojanowski, M. (2021). Slaves, Freedmen, Mulattos, Pardos, and Indigenous Peoples: The Early Modern Social Networks of the Population of Color in the Atlantic Portuguese Empire. In Risam, R., & Josephs, K. B. (Eds.). *The Digital Black Atlantic*. University of Minnesota Press.
 
 ## Book chapters
+
+- Błoch, A., Vasques Filho, D., & Bojanowski, M. (2021). Slaves, Freedmen, Mulattos, Pardos, and Indigenous Peoples: The Early Modern Social Networks of the Population of Color in the Atlantic Portuguese Empire. In Risam, R., & Josephs, K. B. (Eds.). *The Digital Black Atlantic*. University of Minnesota Press.
 
 ## Conference presentations
 
