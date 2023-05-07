@@ -11,38 +11,6 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
-[menu]
-
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 1
-
-[[menu.main]]
-identifier = "blog"
-name = "Blog@Hypotheses"
-url = "https://mape.hypotheses.org"
-weight = 2
-
-[[menu.main]]
-identifier = "team"
-name = "Team"
-url = "/team/"
-weight = 3
-
-[[menu.main]]
-identifier = "publications"
-name = "Publications"
-url = "/publications/"
-weight = 4
-
-[[menu.main]]
-identifier = "partners"
-name = "Partners"
-url = "/partners/"
-weight = 5
-
 
 [sitemap]
   changefreq = "monthly"
