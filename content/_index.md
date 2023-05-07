@@ -4,6 +4,9 @@ featured_image: '/images/seashore.jpg'
 description: "Reconstructing and mapping networks of official correspondence of the early modern Atlantic Portuguese Empire"
 ---
 
-Welcome! 
+This is an old website. Update your bookmarks to:
 
-Under construction. See [About](about/) for now.
+<div style="font-size: 22pt !important;">
+**<https://www.projectmape.org/>**
+</div>
+
